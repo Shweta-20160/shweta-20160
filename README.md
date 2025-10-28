@@ -1,7 +1,6 @@
 Here’s a ready-made template designed for BCA  students:
 <!-- 🎨 Custom Banner -->
 
-
 <!-- ✨ Greetings -->
 <h1 align="center">Hi 👋, I'm shweta </h1>
 <h3 align="center">🚀 A Passionate Software Engineer | BCA 2nd Year Student | India 🇮🇳</h3>
